@@ -1,0 +1,10 @@
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC I_LOC E_LOC o o
+o o o o o o o o o o o o B_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS I_JOB_ADDS E_JOB_ADDS B_JOB I_JOB I_JOB I_JOB E_JOB o o
+B_BI I_BI E_BI o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC E_LOC o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC I_LOC I_LOC E_LOC o o
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC E_LOC o
+B_BI I_BI E_BI o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o o B_LOC I_LOC I_LOC E_LOC o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC I_LOC I_LOC I_LOC E_LOC o
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC E_LOC o o
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o B_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC I_LOC E_LOC o o o
